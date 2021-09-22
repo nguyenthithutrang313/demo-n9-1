@@ -4,6 +4,6 @@ public class HelloIntellij {
      * @param args arguments.
      */
     public static void main(String[] args) {
-        System.out.println("Hello Fish & Huyen update");
+        System.out.println("Hello Thu Trang");
     }
 }
